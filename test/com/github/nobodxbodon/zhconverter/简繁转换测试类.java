@@ -38,6 +38,12 @@ public class 简繁转换测试类 {
     
     // https://github.com/nobodxbodon/zhconverter/issues/5
     确认简繁体互转("叶子", "葉子");
+
+    // https://github.com/nobodxbodon/zhconverter/issues/6
+    确认简繁体互转("发财", "發財");
+    确认简繁体互转("理发", "理髮");
+    // TODO: 需要修改算法, 考虑分词匹配
+    // 确认简繁体互转("发财理发", "發財理髮");
   }
   
   @Test
