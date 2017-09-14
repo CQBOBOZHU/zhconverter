@@ -35,6 +35,9 @@ public class 简繁转换测试类 {
     确认简繁体互转("厄瓜多尔", "厄瓜多爾");
     
     确认简繁体互转("有背光的机械式键盘", "有背光的機械式鍵盤");
+    
+    // https://github.com/nobodxbodon/zhconverter/issues/5
+    确认简繁体互转("叶子", "葉子");
   }
   
   @Test
