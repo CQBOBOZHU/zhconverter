@@ -27,10 +27,10 @@
   </developers>
   <dependencies>
 	<dependency>
-	  <groupId>com.github.program_in_chinese</groupId>
-	  <artifactId>junit4_in_chinese</artifactId>
-	  <version>0.0.1-SNAPSHOT</version>
-	</dependency>
+      <groupId>com.github.program_in_chinese</groupId>
+      <artifactId>junit4_in_chinese</artifactId>
+      <version>0.0.1</version>
+    </dependency>
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>

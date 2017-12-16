@@ -1,6 +1,6 @@
 package com.github.nobodxbodon.zhconverter;
 
-import static com.github.program_in_chinese.junit4_in_chinese.断言类.相等;
+import static com.github.program_in_chinese.junit4_in_chinese.断言.相等;
 
 import org.junit.Test;
 
@@ -44,6 +44,8 @@ public class 简繁转换测试类 {
     确认简繁体互转("理发", "理髮");
     // TODO: 需要修改算法, 考虑分词匹配
     // 确认简繁体互转("发财理发", "發財理髮");
+
+    确认简繁体互转("叶问", "葉問");
   }
   
   @Test
