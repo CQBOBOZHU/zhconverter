@@ -11,7 +11,7 @@
 <dependency>
   <groupId>com.github.nobodxbodon</groupId>
   <artifactId>zhconverter</artifactId>
-  <version>0.0.4</version>
+  <version>0.0.5</version>
 </dependency>
 ```
 LGPL许可证
