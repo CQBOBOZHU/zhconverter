@@ -5,7 +5,7 @@
   <version>0.0.5</version>
   <name>简繁中文字符转换器</name>
   <description>Converter between traditional and simplified characters.</description>
-  <url>https://github.com/nobodxbodon/zhconverter</url>
+  <url>https://github.com/program-in-chinese/zhconverter</url>
   <licenses>
 	<license>
 	  <name>GNU Lesser General Public License</name>
@@ -14,10 +14,10 @@
 	</license>
   </licenses>
   <scm>
-	<connection>scm:git:https://github.com/nobodxbodon/zhconverter.git</connection>
-	<developerConnection>scm:git:https://github.com/nobodxbodon/zhconverter.git</developerConnection>
+	<connection>scm:git:https://github.com/program-in-chinese/zhconverter.git</connection>
+	<developerConnection>scm:git:https://github.com/program-in-chinese/zhconverter.git</developerConnection>
 	<tag>HEAD</tag>
-	<url>https://github.com/nobodxbodon/zhconverter</url>
+	<url>https://github.com/program-in-chinese/zhconverter</url>
   </scm>
   <developers>
 	<developer>
