@@ -14,4 +14,6 @@
   <version>0.0.5</version>
 </dependency>
 ```
+发布过程中的一些问题及解决请详见: [在Maven Central发布中文API的Java库](https://zhuanlan.zhihu.com/p/28024364)
+
 LGPL许可证
