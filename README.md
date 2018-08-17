@@ -16,4 +16,6 @@
 ```
 发布过程中的一些问题及解决请详见: [在Maven Central发布中文API的Java库](https://zhuanlan.zhihu.com/p/28024364)
 
+V2EX对此项目的反馈帖: [第一次见以汉字命名的 Java 类](https://www.v2ex.com/t/480623)
+
 LGPL许可证
