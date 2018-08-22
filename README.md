@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/program-in-chinese/zhconverter.svg?branch=master)](https://travis-ci.org/program-in-chinese/zhconverter)
+
 # zhconverter
 中文字符简繁体互相转换, 基于https://code.google.com/archive/p/java-zhconverter/
 
