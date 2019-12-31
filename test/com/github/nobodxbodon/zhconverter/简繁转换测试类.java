@@ -59,6 +59,12 @@ public class 简繁转换测试类 {
 
     // https://www.npmjs.com/package/zh2cht
     确认简繁体互转("简体到繁体", "簡體到繁體");
+
+    确认简繁体互转("冉闵", "冉閔");
+
+    // https://github.com/program-in-chinese/zhconverter/issues/3
+    确认简繁体互转("乾坤", "乾坤");
+    确认简繁体互转("乾宁", "乾寧");
   }
   
   @Test
