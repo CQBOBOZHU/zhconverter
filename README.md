@@ -2,6 +2,10 @@
 
 # zhconverter
 中文字符简繁体互相转换, 基于https://code.google.com/archive/p/java-zhconverter/
+据项目描述来源于MediaWiki.
+
+- 转换规则很简单, 完全不进行分词.
+- 如果输入文本不是单字, 如果在对应表中有完全匹配, 就返回对应的文本; 不然就逐字按照单字转换.
 
 修改匹配算法后, 解决了原有用户报告的两个问题:
 
